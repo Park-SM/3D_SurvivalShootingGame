@@ -3,7 +3,7 @@ This is FPS game using Unity engine.
 
 # Game Control
  - The bullet is fired when the left mouse button is clicked.
- - Enter zoom mode when the left mouse button is clicked.
+ - Enter zoom mode when the right mouse button is clicked.
  - Pressing the 'B' key changes the bullet firing mode.
 
 # Screen Shot
